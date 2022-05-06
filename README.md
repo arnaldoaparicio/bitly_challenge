@@ -52,3 +52,6 @@ This was created with it being dynamic in mind. So in the ```runner.rb``` file, 
 Testing was done using RSpec. To run tests, go to Terminal, navigate to this directory and run ```rspec```.
 
 I created a json file called 'dummy.json' for testing purposes. This is based on the format of "decodes.json". Difference being is that it contains much less data, making it much easier to test.
+
+## Other documentation
+I have made a gist that documents my thought process throughout the challenge: https://gist.github.com/arnaldoaparicio/a294239fa3d0c22f17faecf3aca9f874
