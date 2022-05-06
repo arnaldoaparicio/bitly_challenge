@@ -37,8 +37,9 @@ If the output does not include ```ruby 2.7.2```, type ```command + q``` to exit 
 
 
 ## Running the program
-1. Navigate to the directory ```$ cd bitly_challenge```
-2. Run ```gem install json```. This is important to allow the use of JSON files for this program.
+1. Clone this repository using SSH ```git clone git@github.com:arnaldoaparicio/bitly_challenge.git```
+2. Navigate to the directory ```$ cd bitly_challenge```
+3. Run ```gem install json```. This is important to allow the use of JSON files for this program.
 4. Run ```ruby runner.rb```. Once this command is ran, an output is shown in the Terminal which is the solution to this challenge.
 
 
